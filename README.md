@@ -2,7 +2,7 @@
 
 群体课堂专注度分析、考试作弊系统、动态点名功能的Qt Demo，使用多人姿态估计、情绪识别、人脸识别、静默活体检测等技术
 
-[相关项目](https://github.com/hongyaohongyao/smart_classroom) 
+[相关项目](https://github.com/0yws/smart-classroom) 
 
 ## 项目环境
 
